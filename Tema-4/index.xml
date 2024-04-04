@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE asociation SYSTEM "./index.dtd">
+<asociation>
+    <tournament id="hola">
+        <year>1994</year>
+        <information>
+            <identify>1</identify>
+            <identify2>2</identify2>
+            <name>Nicolas</name>
+            <years>18</years>
+            <country>Asturias</country>
+            <serie>1</serie>
+        </information>
+    </tournament>
+</asociation>

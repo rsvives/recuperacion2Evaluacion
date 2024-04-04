@@ -1,0 +1,11 @@
+<!ATTLIST tournament id ID #REQUIRED>
+<!ELEMENT asociation (tournament) >
+<!ELEMENT tournament (year, information)>
+<!ELEMENT information (identify, identify2, name, years, country, serie)>
+<!ELEMENT year  (#PCDATA)>
+<!ELEMENT identify (#PCDATA)>
+<!ELEMENT identify2 (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT years (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT serie (#PCDATA)>
